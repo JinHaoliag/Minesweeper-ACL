@@ -1,0 +1,7 @@
+﻿  acllib.c
+C:\Users\JinHaoliag\Documents\Visual Studio 2022\Minesweeper\Minesweeper\acllib.c(150,12): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+C:\Users\JinHaoliag\Documents\Visual Studio 2022\Minesweeper\Minesweeper\acllib.c(278,12): warning C4244: “函数”: 从“WPARAM”转换到“int”，可能丢失数据
+C:\Users\JinHaoliag\Documents\Visual Studio 2022\Minesweeper\Minesweeper\acllib.c(543,39): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\JinHaoliag\Documents\Visual Studio 2022\Minesweeper\Minesweeper\acllib.c(810,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  Minesweeper.vcxproj -> C:\Users\JinHaoliag\Documents\Visual Studio 2022\Minesweeper\x64\Debug\Minesweeper.exe
